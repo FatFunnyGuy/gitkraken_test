@@ -1,0 +1,8 @@
+AI often revolves around the use of algorithms. An algorithm is a set of unambiguous instructions that a mechanical computer can execute.[b] A complex algorithm is often built on top of other, simpler, algorithms. A simple example of an algorithm is the following recipe for optimal play at tic-tac-toe:[54]
+
+If someone has a "threat" (that is, two in a row), take the remaining square. Otherwise,
+if a move "forks" to create two threats at once, play that move. Otherwise,
+take the center square if it is free. Otherwise,
+if your opponent has played in a corner, take the opposite corner. Otherwise,
+take an empty corner if one exists. Otherwise,
+take any empty square.
